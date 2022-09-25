@@ -129,5 +129,5 @@ textSize(18);
 fill(89,203,232);
 text("By observing the number of lightning shocks going through the crab, while assuming that one lightning shock ", -500, 400);
 text("is equivalent to 0.001 amp of electric current and the voltage difference between the left and right is 20V,", -500, 430);
-text("What is the crab's internal electrical resistance? How much power is absorbed by the crab to illuminate its stomach?", -500, 460);
+text("what is the crab's internal electrical resistance? How much power is absorbed by the crab to illuminate its stomach?", -500, 460);
 }
